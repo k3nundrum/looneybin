@@ -1,3 +1,7 @@
+# script to create an admin JWT token for auth bypass.
+# used to solve JWT2 exercise on PentesterLab's Yellow Badge.
+
+
 require 'base64'
 require 'openssl'
 
