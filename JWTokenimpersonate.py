@@ -1,4 +1,5 @@
-
+# Python 2 and 3 script to impersonate admin by creating new JWT token.
+# To solve JWT 2 exercise on PentesterLab
 import hmac
 import base64
 import hashlib
